@@ -4,4 +4,4 @@ if [ $VIRTUAL_ENVIRONMENT ]
 then 
     deactivate
 fi
-. venv-proyecto/Scripts/activate
+. proyectomvp/Scripts/activate
